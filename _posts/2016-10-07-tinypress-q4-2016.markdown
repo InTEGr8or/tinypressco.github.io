@@ -5,10 +5,9 @@ layout: post
 ---
 **TL;DR:** Q4 2016 focus is on deploying TinyPress version 3. Completely rebuilt from the ground up. At long last.
 
-## Mission & Vision
+## Mission
+<br />
 Our <strong>vision</strong> is to be the world's most innovative open source writing company.
-
-Our <strong>mission</strong> is to always choose to delight and surprise users with every decision we make. Our mission will always be centered around the open source writing movement, and the passion we want our users feel when they use our product.
 
 ## Areas of Focus
 <br />
