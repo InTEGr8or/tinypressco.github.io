@@ -3,7 +3,7 @@ published: true
 title: TinyPress Q4 2016
 layout: post
 ---
-**TL;DR:** Q4 2016 focus is on deploying TinyPress version 2. Completely rebuilt from the ground up using Elixir, Phoenix, and React. It's amazing.
+**TL;DR:** Q4 2016 focus is on deploying TinyPress version 3. Completely rebuilt from the ground up. At long last.
 
 ## Mission & Vision
 Our <strong>vision</strong> is to be the world's most innovative open source writing company.
@@ -14,20 +14,13 @@ Our <strong>mission</strong> is to always choose to delight and surprise users w
 TinyPress could be a lot of things for a lot of people, but it will only be the right thing if it is focused.
 
 - Theme & blog creation product (web)
+- Open source writing collaboration product (web)
 - Writing product (web, iOS, android apps)
-- Inspiration product (web) _(more on this coming soon!)_
-- <strike>More and lose focus?</strike>
 
-## Objectives & Key Results [Q4]
-There's a difference between measuring objectives for an entire company versus measuring objectives for a team, a product, or even an individual. 
+## Product Roadmap for Q4
 
-You should always start at the top, and with that being said here are the objectives for the fourth quarter @tinypressco.
+1. Work on TinyPass v3 MVP
 
-1. Deploy TinyPress v2 into production.
-2. Increase writer base > 50%.
+2. Deploy TinyPress v3 into production in at MINIMUM a beta version.
 
-## Product Goals [Q4]
-In order to reach the above objectives for the company we need to set out specific product goals. 
-
-1. **Web:** Complete development on version 2
-2. **Web:** Deploy version 2
+3. Continue iterating in prod, with real customers, to get perfect.
