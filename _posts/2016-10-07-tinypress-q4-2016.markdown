@@ -13,9 +13,11 @@ Our <strong>mission</strong> is to always choose to delight and surprise users w
 ## Areas of Focus
 TinyPress could be a lot of things for a lot of people, but it will only be the right thing if it is focused.
 
-- Theme & blog creation product (web)
-- Open source writing collaboration product (web)
-- Writing product (web, iOS, android apps)
+**Theme & blog creation product (web)**
+
+**Open source writing collaboration product (web)**
+
+**Writing product (web, iOS, android apps)**
 
 ## Product Roadmap for Q4
 
