@@ -19,7 +19,7 @@ Open source writing collaboration product (web)
 Writing product (web, iOS, android apps)
 
 ## Product Roadmap for Q4
-
+<br />
 Work on TinyPass v3 MVP
 
 Deploy TinyPress v3 into production in at MINIMUM a beta version.
