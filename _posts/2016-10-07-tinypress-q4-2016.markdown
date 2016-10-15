@@ -11,7 +11,6 @@ Our <strong>vision</strong> is to be the world's most innovative open source wri
 Our <strong>mission</strong> is to always choose to delight and surprise users with every decision we make. Our mission will always be centered around the open source writing movement, and the passion we want our users feel when they use our product.
 
 ## Areas of Focus
-TinyPress could be a lot of things for a lot of people, but it will only be the right thing if it is focused.
 
 **Theme & blog creation product (web)**
 
@@ -21,7 +20,7 @@ TinyPress could be a lot of things for a lot of people, but it will only be the 
 
 ## Product Roadmap for Q4
 
-1. Work on TinyPass v3 MVP
+Work on TinyPass v3 MVP
 
 2. Deploy TinyPress v3 into production in at MINIMUM a beta version.
 
