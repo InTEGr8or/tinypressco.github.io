@@ -11,12 +11,12 @@ Our <strong>vision</strong> is to be the world's most innovative open source wri
 Our <strong>mission</strong> is to always choose to delight and surprise users with every decision we make. Our mission will always be centered around the open source writing movement, and the passion we want our users feel when they use our product.
 
 ## Areas of Focus
+<br />
+Theme & blog creation product (web)
 
-**Theme & blog creation product (web)**
+Open source writing collaboration product (web)
 
-**Open source writing collaboration product (web)**
-
-**Writing product (web, iOS, android apps)**
+Writing product (web, iOS, android apps)
 
 ## Product Roadmap for Q4
 
