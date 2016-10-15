@@ -22,6 +22,6 @@ Our <strong>mission</strong> is to always choose to delight and surprise users w
 
 Work on TinyPass v3 MVP
 
-2. Deploy TinyPress v3 into production in at MINIMUM a beta version.
+Deploy TinyPress v3 into production in at MINIMUM a beta version.
 
-3. Continue iterating in prod, with real customers, to get perfect.
+Continue iterating in prod, with real customers, to get perfect.
